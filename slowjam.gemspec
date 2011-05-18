@@ -20,7 +20,4 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency 'activesupport', '~> 3.0.0'
-
-  s.add_development_dependency 'i18n', '~> 0.5.0' # HAX
-  s.add_development_dependency 'rspec', '~> 2.5.0'
 end
